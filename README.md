@@ -17,7 +17,9 @@ Fullstack development in JavaScript
 💬 How to reach me:
 
 Twitter: @asaumim7303
+
 LinkedIn: https://www.linkedin.com/in/maiasaumi/
+
 Gmail: dctmm222222@gmail.com
 
 <!--
