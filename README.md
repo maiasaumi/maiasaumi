@@ -1,4 +1,8 @@
-### Hi there 👋
+Mai Asaumi
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="24">](mailto:dctmm222222@gmail.com)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="24">](https://www.linkedin.com/in/maiasaumi/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="24">](https://twitter.com/asaumim7303)
 
 🛠 What I've used:
 
@@ -17,19 +21,22 @@
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-000?logo=visual-studio-code&style=flat" />
 </p>
 
-✍️ I’m currently working on:
+🌱 I’m currently working on:
 
-Studying software engineering at Code Chrysalis
+・Finished Advanced software engineering program at Code Chrysalis (2021-3)
+・Seeking full-time employment
 
 💡 I’m currently learning:
 
-Fullstack development in JavaScript
+・Fullstack development in JavaScript
+・Web development using Vue.js
+・Team development and Agile methodologies
 
-💬 How to reach me:
+📫 How to reach me:
 
-Twitter: @asaumim7303
-LinkedIn: https://www.linkedin.com/in/maiasaumi/
 Gmail: dctmm222222@gmail.com
+LinkedIn: https://www.linkedin.com/in/maiasaumi/
+Twitter: @asaumim7303
 
 <!--
 **maiasaumi/maiasaumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
