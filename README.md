@@ -4,7 +4,12 @@
 
 <p>
 <img src="https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript" />
-  </p>
+<img src="https://img.shields.io/badge/-ExpressJS-000?style=flat&logo=express" />
+<img src="https://img.shields.io/badge/-ReactJS-000?style=flat&logo=react" />
+<img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python" />
+<img src="https://img.shields.io/badge/-PostgreSQL-336791.svg?logo=postgresql&style=flat">
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
+</p>
 
 ✍️ I’m currently working on:
 
