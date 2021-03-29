@@ -4,12 +4,17 @@
 
 <p>
 <img src="https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript" />
-<img src="https://img.shields.io/badge/Node.js-000?style=flat&logo=node.js" />
+<img src="https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js" />
+<img src="https://img.shields.io/badge/-HTML-000?style=flat&logo=html5" />
+<img scr="https://img.shields.io/badge/-CSS-000?style=flat&logo=css3" />
 <img src="https://img.shields.io/badge/-ExpressJS-000?style=flat&logo=express" />
+<img src="https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vue.js" />
 <img src="https://img.shields.io/badge/-ReactJS-000?style=flat&logo=react" />
 <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python" />
 <img src="https://img.shields.io/badge/-Unity-000?style=flat&logo=unity" />
+<img src="https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql" />
 <img src="https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql&style=flat" />
+<img src="https://img.shields.io/badge/-Heroku-000?style=flat&logo=heroku" />
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-000?logo=visual-studio-code&style=flat" />
 </p>
 
