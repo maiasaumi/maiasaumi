@@ -23,20 +23,20 @@ Mai Asaumi
 
 🌱 I’m currently working on:
 
-・Finished Advanced software engineering program at Code Chrysalis (2021-3)
-・Seeking full-time employment
+- Finished Advanced software engineering program at Code Chrysalis (2021-3)
+- Seeking full-time employment
 
 💡 I’m currently learning:
 
-・Fullstack development in JavaScript
-・Web development using Vue.js
-・Team development and Agile methodologies
+- Fullstack development in JavaScript
+- Web development using Vue.js
+- Team development and Agile methodologies
 
 📫 How to reach me:
 
-Gmail: dctmm222222@gmail.com
-LinkedIn: https://www.linkedin.com/in/maiasaumi/
-Twitter: @asaumim7303
+- Gmail: dctmm222222@gmail.com
+- LinkedIn: https://www.linkedin.com/in/maiasaumi/
+- Twitter: @asaumim7303
 
 <!--
 **maiasaumi/maiasaumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
