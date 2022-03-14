@@ -24,12 +24,12 @@ Mai Asaumi
 🌱 I’m currently working on:
 
 - Finished Advanced software engineering program at Code Chrysalis (2021-3)
-- Seeking full-time employment
+- Started working at IBM Japan as an IT specialist (2021-10)
 
 💡 I’m currently learning:
 
-- Fullstack development in JavaScript
-- Web development using Vue.js
+- Fullstack development in Java
+- AWS, Google Cloud, IBM Cloud
 - Team development and Agile methodologies
 
 📫 How to reach me:
