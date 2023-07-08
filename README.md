@@ -23,7 +23,7 @@ Mai Asaumi
 
 🌱 I’m currently working on:
 
-- Finished Advanced software engineering program at Code Chrysalis (2021.3-)
+- Finished Advanced software engineering program at Code Chrysalis (2021.3)
 - Started working at IBM Japan as an IT specialist (2021.10-)
 
 💡 I’m currently learning:
